@@ -20,7 +20,7 @@ func main() {
 
 	switch {
 	case answer == "ragnorok":
-		fmt.Print("You have chosen ragnarok!")
+		fmt.Print("You have chosen ragnorok!")
 		time.Sleep(5 * time.Second)
 	case answer == "heller":
 		fmt.Print("You have chosen heller!")
